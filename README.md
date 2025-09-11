@@ -8,7 +8,9 @@
 
 ## 🚀 Projetos em Destaque
 
-- 🔗 
+- 🔗 [Cypress e K6] (https://github.com/Rickjoim/exempleApiTest)
+- 🔗 [Java] (https://github.com/Rickjoim/educManagement) (https://github.com/Rickjoim/screenmatch-sem-web)
+- 🔗 [Cypress] (https://github.com/Rickjoim/apitest) 
 ---
 
 ## 💼 Experiência Profissional
