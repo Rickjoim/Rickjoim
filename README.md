@@ -15,7 +15,10 @@
 
 ## 💼 Experiência Profissional
 
-- **VEGA Monitoramento** (06/2023 - Presente)  
+- **DTI Digital** (10/2025 - Presente) 
+  Analista de Qualidade de Software Automação Sênior - Planejamento de testes e documentação, execução de teste automatizados utilizando Cypress, Postman e testes em Banco de Dados utilizando SQL. 
+
+- **VEGA Monitoramento** (06/2023 - 10/2025)  
   Analista de Qualidade Pleno – Planejamento e execução de testes manuais e automatizados com **Cypress, Postman, Grafana k6 e banco de dados**.  
 
 - **A4PM – Analytics for Public Management** (03/2023 - 05/2023)  
